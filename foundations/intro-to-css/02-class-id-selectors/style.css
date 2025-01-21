@@ -1,0 +1,19 @@
+.oddnums{
+    font-family: Verdana, DejaVu Sans, sans-serif;
+    background-color: rgb(255, 0, 144);
+}
+
+#two{
+    color: blue;
+    font-size: 36px;
+}
+
+.changefont{
+    font-size: 24px;
+}
+
+#four{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
